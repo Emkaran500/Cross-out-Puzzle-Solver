@@ -1,0 +1,14 @@
+clingo version 5.7.1
+Reading from crossout_puzzle.lp ...
+Solving...
+Answer: 1
+crossedout(1,3,"b") crossedout(1,5,"c") crossedout(2,2,"e") crossedout(3,3,"a") crossedout(3,5,"e") crossedout(4,1,"c") crossedout(5,3,"a") crossedout(5,5,"a")
+Optimization: 33
+OPTIMUM FOUND
+
+Models       : 1
+  Optimum    : yes
+Optimization : 33
+Calls        : 1
+Time         : 0.003s (Solving: 0.00s 1st Model: 0.00s Unsat: 0.00s)
+CPU Time     : 0.000s
